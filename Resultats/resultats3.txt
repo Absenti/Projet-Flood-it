@@ -1,0 +1,180 @@
+-----------------------------------
+Taille	Diff	Changement			Temps (s)
+-----------------------------------
+5	0	26 changements de couleur	0.000017 secondes
+5	20	12 changements de couleur	0.000015 secondes
+5	40	13 changements de couleur	0.000014 secondes
+5	60	29 changements de couleur	0.000013 secondes
+5	80	5 changements de couleur	0.000013 secondes
+5	100	14 changements de couleur	0.000013 secondes
+-----------------------------------
+Taille	Diff	Changement			Temps (s)
+-----------------------------------
+10	0	20 changements de couleur	0.000031 secondes
+10	20	19 changements de couleur	0.000029 secondes
+10	40	14 changements de couleur	0.000027 secondes
+10	60	10 changements de couleur	0.000026 secondes
+10	80	21 changements de couleur	0.000027 secondes
+10	100	5 changements de couleur	0.000023 secondes
+-----------------------------------
+Taille	Diff	Changement			Temps (s)
+-----------------------------------
+15	0	31 changements de couleur	0.000063 secondes
+15	20	29 changements de couleur	0.000058 secondes
+15	40	18 changements de couleur	0.000049 secondes
+15	60	13 changements de couleur	0.000046 secondes
+15	80	6 changements de couleur	0.000043 secondes
+15	100	12 changements de couleur	0.000044 secondes
+-----------------------------------
+Taille	Diff	Changement			Temps (s)
+-----------------------------------
+20	0	55 changements de couleur	0.000117 secondes
+20	20	21 changements de couleur	0.000083 secondes
+20	40	12 changements de couleur	0.000074 secondes
+20	60	12 changements de couleur	0.000070 secondes
+20	80	12 changements de couleur	0.000070 secondes
+20	100	16 changements de couleur	0.000074 secondes
+-----------------------------------
+Taille	Diff	Changement			Temps (s)
+-----------------------------------
+25	0	66 changements de couleur	0.000182 secondes
+25	20	17 changements de couleur	0.000118 secondes
+25	40	19 changements de couleur	0.000113 secondes
+25	60	12 changements de couleur	0.000106 secondes
+25	80	14 changements de couleur	0.000104 secondes
+25	100	14 changements de couleur	0.000101 secondes
+-----------------------------------
+Taille	Diff	Changement			Temps (s)
+-----------------------------------
+30	0	60 changements de couleur	0.000250 secondes
+30	20	16 changements de couleur	0.000247 secondes
+30	40	14 changements de couleur	0.000301 secondes
+30	60	15 changements de couleur	0.000205 secondes
+30	80	12 changements de couleur	0.000192 secondes
+30	100	6 changements de couleur	0.000180 secondes
+-----------------------------------
+Taille	Diff	Changement			Temps (s)
+-----------------------------------
+35	0	84 changements de couleur	0.000421 secondes
+35	20	24 changements de couleur	0.000261 secondes
+35	40	20 changements de couleur	0.000232 secondes
+35	60	20 changements de couleur	0.000223 secondes
+35	80	27 changements de couleur	0.000216 secondes
+35	100	28 changements de couleur	0.000200 secondes
+-----------------------------------
+Taille	Diff	Changement			Temps (s)
+-----------------------------------
+40	0	94 changements de couleur	0.000540 secondes
+40	20	53 changements de couleur	0.000495 secondes
+40	40	29 changements de couleur	0.000331 secondes
+40	60	10 changements de couleur	0.000248 secondes
+40	80	18 changements de couleur	0.000290 secondes
+40	100	12 changements de couleur	0.000262 secondes
+-----------------------------------
+Taille	Diff	Changement			Temps (s)
+-----------------------------------
+45	0	121 changements de couleur	0.000770 secondes
+45	20	32 changements de couleur	0.000463 secondes
+45	40	33 changements de couleur	0.000445 secondes
+45	60	10 changements de couleur	0.000530 secondes
+45	80	17 changements de couleur	0.000416 secondes
+45	100	11 changements de couleur	0.000367 secondes
+-----------------------------------
+Taille	Diff	Changement			Temps (s)
+-----------------------------------
+50	0	99 changements de couleur	0.001081 secondes
+50	20	26 changements de couleur	0.000613 secondes
+50	40	28 changements de couleur	0.000663 secondes
+50	60	14 changements de couleur	0.000514 secondes
+50	80	15 changements de couleur	0.000535 secondes
+50	100	19 changements de couleur	0.000536 secondes
+-----------------------------------
+Taille	Diff	Changement			Temps (s)
+-----------------------------------
+55	0	119 changements de couleur	0.001403 secondes
+55	20	40 changements de couleur	0.000822 secondes
+55	40	27 changements de couleur	0.000796 secondes
+55	60	26 changements de couleur	0.000618 secondes
+55	80	13 changements de couleur	0.000514 secondes
+55	100	21 changements de couleur	0.000494 secondes
+-----------------------------------
+Taille	Diff	Changement			Temps (s)
+-----------------------------------
+60	0	145 changements de couleur	0.001526 secondes
+60	20	41 changements de couleur	0.000827 secondes
+60	40	37 changements de couleur	0.000825 secondes
+60	60	26 changements de couleur	0.000724 secondes
+60	80	16 changements de couleur	0.000630 secondes
+60	100	17 changements de couleur	0.000655 secondes
+-----------------------------------
+Taille	Diff	Changement			Temps (s)
+-----------------------------------
+65	0	138 changements de couleur	0.001848 secondes
+65	20	21 changements de couleur	0.000743 secondes
+65	40	11 changements de couleur	0.000626 secondes
+65	60	23 changements de couleur	0.000750 secondes
+65	80	16 changements de couleur	0.000760 secondes
+65	100	14 changements de couleur	0.000703 secondes
+-----------------------------------
+Taille	Diff	Changement			Temps (s)
+-----------------------------------
+70	0	143 changements de couleur	0.002274 secondes
+70	20	30 changements de couleur	0.000998 secondes
+70	40	23 changements de couleur	0.000883 secondes
+70	60	34 changements de couleur	0.000933 secondes
+70	80	23 changements de couleur	0.000935 secondes
+70	100	20 changements de couleur	0.000942 secondes
+-----------------------------------
+Taille	Diff	Changement			Temps (s)
+-----------------------------------
+75	0	142 changements de couleur	0.002618 secondes
+75	20	40 changements de couleur	0.001458 secondes
+75	40	24 changements de couleur	0.001190 secondes
+75	60	26 changements de couleur	0.001108 secondes
+75	80	16 changements de couleur	0.000974 secondes
+75	100	25 changements de couleur	0.001206 secondes
+-----------------------------------
+Taille	Diff	Changement			Temps (s)
+-----------------------------------
+80	0	164 changements de couleur	0.003238 secondes
+80	20	27 changements de couleur	0.001295 secondes
+80	40	30 changements de couleur	0.001565 secondes
+80	60	22 changements de couleur	0.001026 secondes
+80	80	32 changements de couleur	0.001273 secondes
+80	100	23 changements de couleur	0.001089 secondes
+-----------------------------------
+Taille	Diff	Changement			Temps (s)
+-----------------------------------
+85	0	178 changements de couleur	0.003617 secondes
+85	20	32 changements de couleur	0.001607 secondes
+85	40	32 changements de couleur	0.001488 secondes
+85	60	19 changements de couleur	0.001245 secondes
+85	80	19 changements de couleur	0.001216 secondes
+85	100	28 changements de couleur	0.001220 secondes
+-----------------------------------
+Taille	Diff	Changement			Temps (s)
+-----------------------------------
+90	0	182 changements de couleur	0.004528 secondes
+90	20	41 changements de couleur	0.002273 secondes
+90	40	20 changements de couleur	0.001603 secondes
+90	60	20 changements de couleur	0.001193 secondes
+90	80	20 changements de couleur	0.001439 secondes
+90	100	19 changements de couleur	0.001223 secondes
+-----------------------------------
+Taille	Diff	Changement			Temps (s)
+-----------------------------------
+95	0	219 changements de couleur	0.005803 secondes
+95	20	18 changements de couleur	0.001554 secondes
+95	40	24 changements de couleur	0.001599 secondes
+95	60	16 changements de couleur	0.001759 secondes
+95	80	17 changements de couleur	0.001750 secondes
+95	100	30 changements de couleur	0.001812 secondes
+-----------------------------------
+Taille	Diff	Changement			Temps (s)
+-----------------------------------
+100	0	166 changements de couleur	0.005608 secondes
+100	20	36 changements de couleur	0.002500 secondes
+100	40	33 changements de couleur	0.002216 secondes
+100	60	26 changements de couleur	0.002278 secondes
+100	80	18 changements de couleur	0.001988 secondes
+100	100	24 changements de couleur	0.001952 secondes
